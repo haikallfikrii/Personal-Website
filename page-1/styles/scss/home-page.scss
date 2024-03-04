@@ -1,0 +1,109 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-3GT {
+  padding: 3.7rem 22.8rem 3.7rem 16.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #1f232e;
+  box-sizing: border-box;
+
+  .bolger-C2s {
+    margin-right: 29.3rem;
+    font-weight: 700;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    font-size: 3.3rem;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+
+    .bolger-C2s-sub-0 {
+      font-size: 3.3rem;
+      font-weight: 700;
+      line-height: 1.5;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+    }
+    .bolger-C2s-sub-1 {
+    }
+  }
+  .home-Ypo {
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin: 2.2rem 5rem 0rem 0rem;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+  .read-article-ExX {
+    color: #fffcfc;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin: 2rem 5.1rem 0rem 0rem;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+  .frame-9-YyD {
+    margin: 1.9rem 10.9rem 0rem 0rem;
+    width: 13.4rem;
+    position: relative;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    flex-shrink: 0;
+    height: 3.8rem;
+    font-size: 1.4rem;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 1.5;
+    color: #1f232e;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    background-color: #01ecff;
+  }
+  .frame-8-X4T {
+    width: 9.7rem;
+    font-weight: 700;
+    line-height: 1.5;
+    font-family: Poppins, 'Source Sans Pro';
+    display: flex;
+    margin-top: 2rem;
+    cursor: pointer;
+    color: #1f232e;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    font-size: 1.4rem;
+    white-space: nowrap;
+    background-color: #01ecff;
+    height: 3.8rem;
+    position: relative;
+    border-radius: 0.8rem;
+    flex-shrink: 0;
+  }
+}

@@ -1,0 +1,214 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.register-Gbh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #1f232e;
+}
+.register-Gbh .auto-group-6isw-D19 {
+  margin-right: 2.3049rem;
+  height: 184.3083rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-Gbh .auto-group-6isw-D19 .vector-iyV {
+  margin: 0rem 0.933rem 50.7rem 0rem;
+  width: 66.4618rem;
+  height: 66.9996rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-Gbh .auto-group-6isw-D19 .vector-2zB {
+  width: 59.3951rem;
+  height: 66.6083rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-Gbh .auto-group-iccd-NYF {
+  width: 106.4rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-1-tmV {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 25.1rem;
+  overflow: hidden;
+}
+.register-Gbh .auto-group-iccd-NYF .rectangle-5-pQF {
+  width: 106.4rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 4rem 0 0 4rem;
+}
+.register-Gbh .auto-group-iccd-NYF .create-account-LNb {
+  width: 38.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 21.2rem;
+  top: 13.8rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-3-ZFM {
+  box-sizing: border-box;
+  padding: 0 1rem;
+  width: 80.3rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 53rem;
+  border: solid 0.1rem #000000;
+  border-radius: 0.8rem;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-3-ZFM .frame-5-4xo {
+  margin: 0rem 67.4rem 4.5rem 0rem;
+  width: 10.9rem;
+  height: 4.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-7-hF5 {
+  width: 80.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 65.7rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #148792;
+  border-radius: 0.8rem;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-5-a3y {
+  box-sizing: border-box;
+  padding: 0 1rem;
+  width: 80.3rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 41.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 0.8rem;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-5-a3y .frame-5-Vgj {
+  margin: 0rem 70.9rem 4.5rem 0rem;
+  width: 7.4rem;
+  height: 4.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-4-7TD {
+  box-sizing: border-box;
+  padding: 0 1rem;
+  width: 38.1rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 29.3rem;
+  border: solid 0.1rem #000000;
+  border-radius: 0.8rem;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-4-7TD .frame-5-1oV {
+  margin: 0rem 23.6rem 4.5rem 0rem;
+  width: 12.5rem;
+  height: 4.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-6-5YT {
+  box-sizing: border-box;
+  padding: 0 1rem;
+  width: 38.1rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 29.3rem;
+  border: solid 0.1rem #000000;
+  border-radius: 0.8rem;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-6-5YT .frame-5-DPm {
+  margin: 0rem 25.2rem 4.5rem 0rem;
+  width: 10.9rem;
+  height: 4.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+}
+.register-Gbh .auto-group-iccd-NYF .frame-3-5B5 {
+  width: 11.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 24.9rem;
+  top: 23.8rem;
+  overflow: hidden;
+}

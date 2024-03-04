@@ -1,0 +1,107 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-3GT {
+  box-sizing: border-box;
+  padding: 3.7rem 22.8rem 3.7rem 16.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #1f232e;
+}
+.home-page-3GT .bolger-C2s {
+  margin-right: 29.3rem;
+  font-size: 3.3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-3GT .bolger-C2s .bolger-C2s-sub-0 {
+  font-size: 3.3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-3GT .bolger-C2s .bolger-C2s-sub-1 {
+}
+.home-page-3GT .home-Ypo {
+  margin: 2.2rem 5rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-3GT .read-article-ExX {
+  margin: 2rem 5.1rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fffcfc;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-3GT .frame-9-YyD {
+  margin: 1.9rem 10.9rem 0rem 0rem;
+  width: 13.4rem;
+  height: 3.8rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #1f232e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #01ecff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.home-page-3GT .frame-8-X4T {
+  margin-top: 2rem;
+  width: 9.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #1f232e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #01ecff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
